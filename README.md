@@ -123,7 +123,9 @@ assignment/
 
 🧪 API Testing Screenshots
 GET Employees
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61c256e5-bb52-4d7f-bf0a-e7c2961ff0af" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e8c81a6-3a5e-46e5-97a3-470f9a3cad50" />
+
+
 
 
 POST Employee
@@ -132,8 +134,12 @@ POST Employee
 
 
 GET Tasks
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3d7944b-bdf1-4987-9b5f-cbd38fe61efb" />
+
 
 POST Task
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73d5e9af-e6ca-40dd-817e-7ff2319d18f0" />
+
 
 🗃 Database (MongoDB Atlas)
 Employees Collection
@@ -192,6 +198,7 @@ DELETE /api/tasks/:id
 Swarna Kamalam S
 Full-Stack Developer
 GitHub: https://github.com/swarna170
+
 
 
 
