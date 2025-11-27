@@ -143,16 +143,21 @@ POST Task
 
 🗃 Database (MongoDB Atlas)
 Employees Collection
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e999f881-221e-48fd-aee8-65cde3471ca5" />
+
+
 
 Tasks Collection
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1d82027-928b-4914-a429-412c14283512" />
+
 
 🌍 Deployment Logs
-
-
 
 Netlify Build
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d6af9be-6d81-4c27-a0ea-227e120b5dcb" />
 Render Logs
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c7b7cb8-41af-4ccb-b291-a7483b3290f8" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/761b8096-5135-4d7f-be85-ffd88256279b" />
 
 
@@ -203,6 +208,7 @@ DELETE /api/tasks/:id
 Swarna Kamalam S
 Full-Stack Developer
 GitHub: https://github.com/swarna170
+
 
 
 
