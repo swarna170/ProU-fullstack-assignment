@@ -89,12 +89,14 @@ MongoDB Atlas cluster
 Two collections: Employees, Tasks
 
 🛠 Tech Stack
-Layer	Technology
-Frontend	React, Vite, CSS
-Backend	Node.js, Express
-Database	MongoDB Atlas
-Deployment	Netlify (UI), Render (API)
-Tools	Git, Thunder Client
+| Layer      | Technology                 |
+| ---------- | -------------------------- |
+| Frontend   | React, Vite, CSS           |
+| Backend    | Node.js, Express           |
+| Database   | MongoDB Atlas              |
+| Deployment | Netlify (UI), Render (API) |
+| Tools      | Git, Thunder Client        |
+
 📁 Project Structure
 assignment/
 │
@@ -186,21 +188,5 @@ Swarna Kamalam S
 Full-Stack Developer
 GitHub: https://github.com/swarna170
 
-🟪 How to Add Screenshots
 
-Create folder:
-
-screenshots/
-
-
-Add images:
-
-dashboard.png
-employees_page.png
-add_employee.png
-tasks_page.png
-...
-
-
-Commit & push — they will show up automatically.
 
