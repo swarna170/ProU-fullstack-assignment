@@ -123,8 +123,13 @@ assignment/
 
 🧪 API Testing Screenshots
 GET Employees
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61c256e5-bb52-4d7f-bf0a-e7c2961ff0af" />
+
 
 POST Employee
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/306b90c4-587c-44dd-940d-541d902098cd" />
+
+
 
 GET Tasks
 
@@ -187,6 +192,7 @@ DELETE /api/tasks/:id
 Swarna Kamalam S
 Full-Stack Developer
 GitHub: https://github.com/swarna170
+
 
 
 
