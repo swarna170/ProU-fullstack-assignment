@@ -61,7 +61,7 @@ Fully deployed backend & frontend
 
 Professional architecture
 
-🧩 Features
+
 🎨 Frontend
 
 Responsive Dashboard UI
@@ -147,9 +147,12 @@ Employees Collection
 Tasks Collection
 
 🌍 Deployment Logs
-Render Logs
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/525fb8ff-1d7d-487e-8d62-256dfdc1fa0e" />
+
 
 Netlify Build
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2d6af9be-6d81-4c27-a0ea-227e120b5dcb" />
+Render Logs
 
 ⚙️ Setup Instructions
 🟦 Backend
@@ -198,6 +201,7 @@ DELETE /api/tasks/:id
 Swarna Kamalam S
 Full-Stack Developer
 GitHub: https://github.com/swarna170
+
 
 
 
