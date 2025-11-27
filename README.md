@@ -35,19 +35,19 @@ React + Node.js + Express + MongoDB + Netlify + Render
 
 📸 Project Preview
 
-(Place your actual screenshots in the /screenshots folder to make them appear.)
 
 🏠 Dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d68ba6f-245e-4a54-bd5a-d16acff4850c" />
+
 
 👥 Employees Page
-
-📝 Add Employee
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/771526c3-b8fc-4d42-9a7d-97d292145a87" />
 
 📋 Tasks Page
 
-➕ Add Task
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8b48a55-1731-492b-88ab-0d9b734a309a" />
 
-🧠 Overview
+
 
 A complete full-stack system for managing employees and tasks with:
 
@@ -203,3 +203,4 @@ tasks_page.png
 
 
 Commit & push — they will show up automatically.
+
